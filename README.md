@@ -2,7 +2,7 @@
 
 ### Real-Time Cloud Cost Intelligence & Unit Economics Visualization
 
-![Dashboard Preview](assets/dashboard.png)
+! https://zakirkhan01.github.io/finops-dashboard/
 
 ---
 
