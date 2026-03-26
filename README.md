@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-👉https://github.com/zakirkhan01/finops-dashboard
+👉https://zakirkhan01.github.io/finops-dashboard
 
 ---
 
